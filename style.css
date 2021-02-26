@@ -1,0 +1,44 @@
+body{
+    background-image: url('background.jpeg'); 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.info{
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 20px;
+    padding: 10px;
+}
+
+
+p {
+    color: black;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+#date #days{
+    font-size: 18px;
+}
+.container{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
+
+.col{
+    border: white;
+    padding: 10px;
+}
+
+#cur{
+    background-color: lightblue;
+    border-radius: 10px;
+}
+
+#curyear{
+    font-size: 24px;
+    font-weight: bold;
+}
